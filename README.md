@@ -10,6 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
-<img src="https://github.com/user-attachments/assets/cf5a5b70-c373-4ace-837b-7ae545a7984d" width="250" height="250"/>
+<img src="https://github.com/user-attachments/assets/cf5a5b70-c373-4ace-837b-7ae545a7984d" width="150" height="100"/>
 -->
-![__kobo_kanaeru_and_kobo_kanaeru_hololive_and_2_more_drawn_by_yoir__665f87ecdd3c74495755261f13c50578](https://github.com/user-attachments/assets/cf5a5b70-c373-4ace-837b-7ae545a7984d)
+
