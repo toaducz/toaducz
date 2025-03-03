@@ -2,9 +2,6 @@
 
 I'm a passionate Developer with a background in Computer Science from Ton Duc Thang University
 
-* 🌍  I'm based in Việt Nam
-* ✉️  You can contact me at [Phanhuynhtoanduc@gmail.com](mailto:Phanhuynhtoanduc@gmail.com)
-
 ### Skills
 
 
