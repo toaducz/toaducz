@@ -1,5 +1,3 @@
-===========================================================================================================================================
-
 I'm a passionate Developer with a background in Computer Science from Ton Duc Thang University
 
 ### Skills
@@ -14,3 +12,4 @@ I'm a passionate Developer with a background in Computer Science from Ton Duc Th
 
 
 -->
+![__kobo_kanaeru_and_kobo_kanaeru_hololive_and_2_more_drawn_by_yoir__665f87ecdd3c74495755261f13c50578](https://github.com/user-attachments/assets/cf5a5b70-c373-4ace-837b-7ae545a7984d)
