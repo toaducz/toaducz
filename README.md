@@ -13,3 +13,9 @@
 <div flex align="center">
   <img src="https://github.com/user-attachments/assets/6a27e61f-7bbf-4635-8a4b-dd03f945e934" width="300" height="200"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0jag1muht6xw8p9pnekv051if&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
